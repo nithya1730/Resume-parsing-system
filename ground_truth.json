@@ -1,0 +1,19 @@
+[
+    {
+        "file": "resume1.pdf",
+        "Name": "John Doe",
+        "Email": "john@gmail.com",
+        "Phone": "555-111-2222",
+        "Skills": [
+            "Python",
+            "SQL",
+            "Machine Learning"
+        ],
+        "Education": [
+            "bachelor of science in computer science"
+        ],
+        "Experience": [
+            "worked as data analyst at xyz company"
+        ]
+    }
+]
